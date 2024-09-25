@@ -29,6 +29,7 @@ pelias elastic wait
 pelias elastic create
 pelias download all
 pelias prepare placeholder
+wait
 pelias prepare interpolation
 pelias import all
 pelias compose up
